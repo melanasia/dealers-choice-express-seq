@@ -1,0 +1,40 @@
+body {
+    font-family: cursive;
+}
+
+#title {
+    text-align: center;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+#wrapper {
+    font-size: 1.5em;
+    color: navy;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 100px; 
+    left: 100px;
+    right: 100px;
+}
+
+#dive-one {
+    border-style: solid;
+    margin-bottom: 50px;
+}
+
+.dives {
+    margin-bottom: 50px;
+}
+
+.divename {
+    border-style: solid;
+    border-radius: 25px;
+    line-height: 100px;
+    padding: 20px;
+    background-color: lightblue;
+}
